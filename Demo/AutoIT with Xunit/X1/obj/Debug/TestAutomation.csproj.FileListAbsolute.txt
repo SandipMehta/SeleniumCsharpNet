@@ -1,0 +1,45 @@
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.abstractions.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\X1.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\X1.pdb
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\WebDriver.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\WebDriver.Support.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.core.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\WebDriver.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\WebDriver.Support.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.pdb
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.core.pdb
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\bin\Debug\xunit.core.xml
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\obj\Debug\X1.dll
+C:\Users\Dell 2\documents\visual studio 2013\Projects\X1\X1\obj\Debug\X1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\X1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\X1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\obj\Debug\X1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\obj\Debug\X1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\X1\X1\obj\Debug\TestAutomation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\Demo2.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\Demo2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\NMock2.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\nunit.core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Common.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Remote.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Common.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Remote.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Support.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\obj\Debug\Demo2.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Demo2\Demo2\obj\Debug\Demo2.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\Demo2.dll
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\Demo2.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.xml
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.Common.Tests.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.Remote.Tests.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.Support.pdb
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\bin\Debug\WebDriver.Support.xml
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\obj\Debug\Demo2.csprojResolveAssemblyReference.cache
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\obj\Debug\Demo2.dll
+\\EMGAGE-SERVER\Emgage\IMP for QA\Automation\Selenium\Demo\Script for windows authentication\Demo2\Demo2\obj\Debug\Demo2.pdb

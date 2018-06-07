@@ -1,0 +1,25 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\Stock Dyanamic.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\Stock Dyanamic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\NMock2.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\nunit.core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Common.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Remote.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Common.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Remote.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Support.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\obj\Debug\Stock Dyanamic.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\obj\Debug\Stock Dyanamic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Stock Dyanamic\Stock Dyanamic\obj\Debug\Stock Dyanamic.csprojResolveAssemblyReference.cache

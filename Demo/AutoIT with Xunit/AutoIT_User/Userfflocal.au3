@@ -1,0 +1,6 @@
+WinWait("Authentication Required")
+WinWaitActive("Authentication Required")
+Send("emgq02\dimplek")
+Send("{TAB}")
+Send("admin@123")
+Send("{ENTER}")
